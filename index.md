@@ -28,14 +28,12 @@ Image deconvolution, sparse signal reconstruction, unbiased risk estimation, num
 Chinese, Russian, English
 
 ### Academic activities
-- Reviewer to Journals: _IEEE TIP_, _IEEE Signal Processing Magazine_, _EURASIP Journal on image and video processing_, _Signal, image and video processing_, _International Journal of Computer Assisted Radiology and Surgery_, _Applied Optics_, _SIAM J. Imaging Sciences_.
+- Reviewer to Journals: _SIAM J. Imaging Sciences_, _IEEE Signal Processing Magazine_, _IEEE TIP_, _EURASIP Journal on image and video processing_, _Signal, image and video processing_, _International Journal of Computer Assisted Radiology and Surgery_, _Applied Optics_.
 
-### Selected publications
-- Ph.D. thesis
-
+### Ph.D thesis
 _Unbiased risk estimate algorithms for image deconvolution_. The Chinese University of Hong Kong, June, 2013.
 
-- Journal articles
+### Journal articles
 
 1. s
 
