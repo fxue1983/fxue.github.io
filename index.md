@@ -12,9 +12,10 @@ If you have any problems with my research works, please contact me by email: _fx
 Image deconvolution, sparse signal reconstruction, unbiased risk estimation, numerical optimization.
 
 ### Research projects
-- Performance analysis of electro-optical imaging system Sep. 2005 – Jul. 2007
-- The sub-pixel imaging process in point-target detection Sep. 2007 – Jul. 2009
-- Multi-Wiener SURE-LET approach to non-blind deconvolution Feb. 2010 – Apr. 2012
+- Performance analysis of electro-optical imaging system (Sep. 2005 – Jul. 2007)
+- The sub-pixel imaging process in point-target detection (Sep. 2007 – Jul. 2009)
+- Mathematical modelling of point spread function of fluorescence microscopy (Jul. 2009 - Feb. 2010)
+- Multi-Wiener SURE-LET approach to non-blind deconvolution (Feb. 2010 – Apr. 2012)
 - SURE-based approach to parametric blind deconvolution Nov. 2011 – Jul. 2015
 - SURE-based optimization of sparse reconstruction Jun, 2015 –
 
