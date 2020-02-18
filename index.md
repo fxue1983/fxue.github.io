@@ -16,8 +16,9 @@ Image deconvolution, sparse signal reconstruction, unbiased risk estimation, num
 - The sub-pixel imaging process in point-target detection (Sep. 2007 – Jul. 2009)
 - Mathematical modelling of point spread function of fluorescence microscopy (Jul. 2009 - Feb. 2010)
 - Multi-Wiener SURE-LET approach to non-blind deconvolution (Feb. 2010 – Apr. 2012)
-- SURE-based approach to parametric blind deconvolution Nov. 2011 – Jul. 2015
-- SURE-based optimization of sparse reconstruction Jun, 2015 –
+- SURE-based approach to parametric blind deconvolution (Nov. 2011 – Jul. 2015)
+- Recursive evaluation of SURE for sparse signal reconstruction (Jun, 2015 – Jul. 2018)
+- Recursive evaluation of SURE for sparse signal reconstruction (Jun, 2015 – Jul. 2018)
 
 ```markdown
 Syntax highlighted code block
