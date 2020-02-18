@@ -1,26 +1,11 @@
 ## Welcome to Feng Xue's Hoempage.
-<table border="0">
-  <tr>
-    <td width="75%">
-      <h1>xuefeng</h1>
-      <p><b>sdf</b></p>
-      <p><b>×× uni </b></p>
-      <p><b>email: 1234567789@qq.com</b></p>
-      <p><b>address：</b></p>
-    </td>
-    <td width="25%">
-      <img src="/zhengjianzhao.jpg" width="100%">      
-    </td>
-  </tr>
-</table>
-
 
 Dr. **Feng Xue** is a senior engineer of National Key Laboratory of Science and Technology on Test Physics and Numerical Mathematics, Beijing, 100076, China.
 
 ### Short Bio
 I received the B.Eng. and M.Eng. from Harbin Institute of Technology, Harbin, China, and the Ph.D. degree in electronics engineering from The Chinese University of Hong Kong (CUHK), Shatin, Hong Kong, in 2013, under the supervision of Prof. T. Blu. I am currently with the National Key Laboratory of Science and Technology on Test Physics and Numerical Mathematics, Beijing, 100076, China. My research interests include image deconvolution, sparse reconstruction, and the related optimization algorithms.
 
-If you have any problems with my research works, please send me an email: _fxue (at) hotmail (dot) com_.
+If you have any problems with my research works, please contact me by email: _fxue (at) hotmail (dot) com_.
 
 
 
