@@ -1,13 +1,10 @@
 ## Welcome to Feng Xue's Hoempage.
 Dr. **Feng Xue** is a senior engineer of National Key Laboratory of Science and Technology on Test Physics and Numerical Mathematics, Beijing, 100076, China.
 
-You can use the [editor on GitHub](https://github.com/fxue1983/fxue.github.io/edit/master/index.md) to maintain and preview the content for your website in Markdown files.
+### Short Bio
+Feng Xue received his B.Eng. and M.Eng. from Harbin Institute of Technology, Harbin, China, and the Ph.D. degree in electronics engineering from The Chinese University of Hong Kong, Hong Kong, in 2013, under the supervision of Prof. T. Blu. He is currently with the National Key Laboratory of Science and Technology on Test Physics and Numerical Mathematics, Beijing, China. His research interests include image deconvolution, sparse reconstruction, and statistical learning.
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
 
-### Markdown
-
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
 
 ```markdown
 Syntax highlighted code block
