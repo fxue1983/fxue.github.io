@@ -30,6 +30,12 @@ Chinese, Russian, English
 ### Academic activities
 - Reviewer to Journals: _IEEE TIP_, _IEEE Signal Processing Magazine_, _EURASIP Journal on image and video processing_, _Signal, image and video processing_, _International Journal of Computer Assisted Radiology and Surgery_, _Applied Optics_, _SIAM J. Imaging Sciences_.
 
+### Selected publications
+- Ph.D. thesis
+Unbiased risk estimate algorithms for image deconvolution. The Chinese University of Hong Kong, June, 2013.
+- Journal articles
+s
+
 ```markdown
 Syntax highlighted code block
 
