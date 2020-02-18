@@ -3,7 +3,7 @@
 Dr. **Feng Xue** is a senior engineer of National Key Laboratory of Science and Technology on Test Physics and Numerical Mathematics, Beijing, 100076, China.
 
 ### Short Bio
-I received the B.Eng. and M.Eng. from <a href="http://www.hit.edu.cn">Harbin Institute of Technology</a>, Harbin, China, and the Ph.D. degree in electronics engineering from <a href="http://www.cuhk.edu.hk">the Chinese University of Hong Kong</a> (CUHK), Shatin, Hong Kong, in 2013, under the supervision of Prof. T. Blu. I am currently with the National Key Laboratory of Science and Technology on Test Physics and Numerical Mathematics, Beijing, 100076, China. My research interests include unbiased risk estimation, convex analysis and variational methods with applications to image deconvolution, sparse signal reconstruction.
+I received the B.Eng. and M.Eng. from <a href="http://www.hit.edu.cn">Harbin Institute of Technology</a>, Harbin, China, and the Ph.D. degree in electronics engineering from <a href="http://www.cuhk.edu.hk">the Chinese University of Hong Kong</a> (CUHK), Shatin, Hong Kong, in 2013, under the supervision of Prof. T. Blu. I am currently with the National Key Laboratory of Science and Technology on Test Physics and Numerical Mathematics, Beijing, 100076, China. My research interests include unbiased risk estimation, convex analysis and variational methods with applications to imaging problems.
 
 If you have any problems with my research works, please contact me by email: _fxue (at) hotmail (dot) com_.
 
@@ -11,6 +11,8 @@ If you have any problems with my research works, please contact me by email: _fx
 
 Image deconvolution, sparse signal reconstruction, unbiased risk estimation, numerical optimization.
 
+### Research projects
+- Performance analysis of electro-optical imaging system Sep. 2005 – Jul. 2007
 
 ```markdown
 Syntax highlighted code block
