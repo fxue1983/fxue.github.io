@@ -32,9 +32,12 @@ Chinese, Russian, English
 
 ### Selected publications
 - Ph.D. thesis
-Unbiased risk estimate algorithms for image deconvolution. The Chinese University of Hong Kong, June, 2013.
+
+_Unbiased risk estimate algorithms for image deconvolution_. The Chinese University of Hong Kong, June, 2013.
+
 - Journal articles
-s
+
+1. s
 
 ```markdown
 Syntax highlighted code block
