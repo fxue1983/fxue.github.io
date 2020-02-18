@@ -36,8 +36,8 @@ _Unbiased risk estimate algorithms for image deconvolution_. The Chinese Univers
 ### Journal articles
 
 - Feng Xue and Jiaqi Liu. A family of PURE with applications to sparse Poisson deconvo- lution. IEEE Transactions on Image Processing, November, 2017, submitted.
-- Feng Xue, Jiaqi Liu and Xia Ai. Parametric PSF Estimation based on predicted-SURE with l1-penalized sparse deconvolution. Signal, Image and Video Processing, vol. 13, no. 4, 2019, pp. 635–642.
-- Feng Xue, Jiaqi Liu and Xia Ai. Recursive SURE for image recovery via total variation minimization. Signal, Image and Video Processing, vol. 13, no. 4, 2019, pp. 795–803.
+- Feng Xue, Jiaqi Liu and Xia Ai. Parametric PSF Estimation based on predicted-SURE with l1-penalized sparse deconvolution. Signal, Image and Video Processing, vol. 13, no. 4, 2019, pp. 635–642.  <a href="/sivp_psf_l1_2019.pdf">[pdf]</a>
+- Feng Xue, Jiaqi Liu and Xia Ai. Recursive SURE for image recovery via total variation minimization. Signal, Image and Video Processing, vol. 13, no. 4, 2019, pp. 795–803. 
 - Jizhou Li, Feng Xue, Fuyang Qu, Yiping Ho and Thierry Blu. On-the-fly estimation of a microscopy point spread function.. Optics Express, vol. 26, no. 20, 2018, pp. 26120–26133.
 - Jizhou Li, Feng Xue, Thierry Blu. Fast and accurate 3D PSF computation for fluorescence microscopy. Journal of the Optical Society of America A, vol. 34, no. 6, 2017, pp. 1029–1034.
 - Feng Xue, Anatoly G. Yagola, Jiaqi Liu and Gang Meng. Recursive SURE for iterative reweighted least square algorithms. Inverse Problems in Science and Engineering, vol. 24, no. 4, 2016, pp. 625–646.
