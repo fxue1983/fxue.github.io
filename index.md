@@ -28,7 +28,7 @@ Image deconvolution, sparse signal reconstruction, unbiased risk estimation, num
 Chinese, Russian, English
 
 ### Academic activities
-- Reviewer to Journals: _IEEE TIP_, _IEEE Signal Processing Magazine_, _EURASIP Journal on image and video processing_, _Signal, image and video processing_, _International Journal of Computer Assisted Radiology and Surgery_, _Applied Optics_.
+- Reviewer to Journals: _IEEE TIP_, _IEEE Signal Processing Magazine_, _EURASIP Journal on image and video processing_, _Signal, image and video processing_, _International Journal of Computer Assisted Radiology and Surgery_, _Applied Optics_, _SIAM J. Imaging Sciences_.
 
 ```markdown
 Syntax highlighted code block
