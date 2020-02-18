@@ -7,6 +7,9 @@ I received the B.Eng. and M.Eng. from <a href="http://www.hit.edu.cn">Harbin Ins
 
 If you have any problems with my research works, please contact me by email: _fxue (at) hotmail (dot) com_.
 
+### Research areas
+
+Image deconvolution, sparse signal reconstruction, unbiased risk estimation, numerical optimization.
 
 
 ```markdown
