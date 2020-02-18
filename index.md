@@ -4,6 +4,8 @@ Dr. **Feng Xue** is a senior engineer of National Key Laboratory of Science and 
 ### Short Bio
 I received the B.Eng. and M.Eng. from Harbin Institute of Technology, Harbin, China, and the Ph.D. degree in electronics engineering from The Chinese University of Hong Kong, Hong Kong, in 2013, under the supervision of Prof. T. Blu. I am currently with the National Key Laboratory of Science and Technology on Test Physics and Numerical Mathematics, Beijing, 100076, China. My research interests include image deconvolution, sparse reconstruction, and the related optimization algorithms.
 
+If you have any problems with my research works, please send me an email: fxue (at) hotmail (dot) com.
+
 
 
 ```markdown
