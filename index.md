@@ -22,7 +22,10 @@ Image deconvolution, sparse signal reconstruction, unbiased risk estimation, num
 - Convergence analysis of first-order optimization algorithms from proximal point perspective (Jul. 2019 –  )
 
 ### Funding
-- Unbiased risk estimate algorithms for blind image deconvolution: PI, National Natural Science Foundation of China (#61401013), CNY 290’000, Jan. 2015 — Dec. 2017.
+- Unbiased risk estimate algorithms for blind image deconvolution: NSFC #61401013, CNY 290’000, Jan. 2015 — Dec. 2017.
+
+### Languages
+Chinese, Russian, English
 
 ```markdown
 Syntax highlighted code block
